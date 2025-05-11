@@ -1,0 +1,26 @@
+# Entornos virtuales
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos de Jupyter temporales
+.ipynb_checkpoints/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs o salidas temporales
+*.log
+
+# Archivos de configuración personal (VSCode, etc.)
+.vscode/
+
+# Archivos de entorno
+.env
